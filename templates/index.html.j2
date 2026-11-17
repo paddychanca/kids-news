@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Kids News">
+  <title>Kids News</title>
+  <style>{{ css|safe }}</style>
+</head>
+<body>
+  <header>
+    <h1>Kids News</h1>
+    <p class="date">{{ date }}</p>
+    <button id="lang-toggle" class="lang-btn" type="button">Français</button>
+  </header>
+
+  <nav id="tabs" aria-label="News categories"></nav>
+  <main id="stories"></main>
+
+  <footer>
+    <p id="footer-note">These stories are rewritten by AI for young readers. Tap "Read the original story" to see what the news organization published.</p>
+  </footer>
+
+  <script id="edition-data" type="application/json">{{ sections|tojson }}</script>
+  <script>{{ js|safe }}</script>
+</body>
+</html>

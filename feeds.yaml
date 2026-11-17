@@ -1,0 +1,47 @@
+World:
+  - https://www.cbc.ca/webfeed/rss/rss-world
+  - https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml
+
+Canada:
+  - https://www.cbc.ca/webfeed/rss/rss-canada
+
+Calgary:
+  - https://www.cbc.ca/webfeed/rss/rss-canada-calgary
+  - https://globalnews.ca/calgary/feed/
+  - https://calgary.citynews.ca/feed/
+
+Alberta:
+  - https://www.cbc.ca/webfeed/rss/rss-canada-edmonton
+
+Hong Kong:
+  - https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml
+  - https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml
+
+Space:
+  - https://www.nasa.gov/news-release/feed/
+  - https://phys.org/rss-feed/space-news/astronomy/
+
+Animals:
+  - https://www.sciencedaily.com/rss/plants_animals.xml
+
+Science:
+  - https://www.sciencedaily.com/rss/top/science.xml
+  - https://phys.org/rss-feed/science-news/sci-other/
+
+Earth & disasters:
+  - https://www.sciencedaily.com/rss/top/environment.xml
+
+Tech and AI:
+  - https://www.cbc.ca/webfeed/rss/rss-technology
+  - https://www.sciencedaily.com/rss/top/technology.xml
+
+Health:
+  - https://www.cbc.ca/webfeed/rss/rss-health
+  - https://www.sciencedaily.com/rss/top/health.xml
+
+Arts:
+  - https://www.cbc.ca/webfeed/rss/rss-arts
+
+Sports:
+  - https://www.cbc.ca/webfeed/rss/rss-sports
+  - https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml

@@ -1,0 +1,6 @@
+feedparser
+trafilatura
+google-genai
+jinja2
+pyyaml
+python-dotenv
