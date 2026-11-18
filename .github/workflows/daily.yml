@@ -2,7 +2,7 @@ name: Daily kids news
 
 on:
   schedule:
-    - cron: "17 13 * * *"
+    - cron: "43 9 * * *"
   workflow_dispatch:
 
 permissions:
